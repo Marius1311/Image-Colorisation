@@ -5,3 +5,5 @@ This is just the first attempt. There is a file called main1.m, that basically d
 An then, there is the colorisation_gui.m file that adds a GUI and makes things a bit more fun.
 
 So far, the "load image" button does not have any functionality assigned to it. The other buttons work pretty well.
+
+Be carefule, it wants the file "borad2.jpg" to be in a folder called "Images" (capital spelling), otheriwse it gets upset. 
